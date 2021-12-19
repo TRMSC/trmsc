@@ -2,7 +2,7 @@
 
 ### I hope you enjoy browsing my repositories and I'm glad about feedback and tips! 😎 ###
 
-#### You also can visit my wordpress site or follow me on twitter for more stuff! 🚀 ####  
+#### You also can visit my wordpress-site or follow me on twitter for more stuff! 🚀 ####  
   
 [![Generic badge](https://img.shields.io/badge/📰-web-blue.svg)](https://trmsc1.wordpress.com/)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/TRMSC1)
