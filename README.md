@@ -4,7 +4,7 @@
 
 #### You also can visit my wordpress-site or follow me on twitter for more stuff! 🚀 ####  
   
-[![Generic badge](https://img.shields.io/badge/📰-web-blue.svg)](https://trmsc1.wordpress.com/)
+[![Generic badge](https://img.shields.io/badge/📰-blog-blue.svg)](https://trmsc1.wordpress.com/)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/TRMSC1)
     
 ---
