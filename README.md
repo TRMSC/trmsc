@@ -13,7 +13,7 @@
   
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRMSC&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/TRMSC)
+[![Generic badge](https://img.shields.io/badge/MADE_WITH-❤-red.svg)](https://github.com/TRMSC)
 
 <!--
 **TRMSC/trmsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
