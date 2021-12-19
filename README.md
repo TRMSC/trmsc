@@ -11,7 +11,7 @@
 
   
   
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRMSC&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![TRMSC's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRMSC&theme=ayu-mirage)](https://github.com/TRMSC)
   
 [![Generic badge](https://img.shields.io/badge/MADE_WITH-❤-red.svg)](https://github.com/TRMSC)
 
