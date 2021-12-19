@@ -9,7 +9,11 @@
     
 ---
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRMSC&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)  
+<img src="https://trmsc.de/wp-content/uploads/ownpic/zauberer.svg" width="40%">  
+
+  
+  
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRMSC&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
