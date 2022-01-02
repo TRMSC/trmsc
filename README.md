@@ -1,3 +1,5 @@
+<img src="https://github.com/TRMSC/trmsc/blob/main/header.svg">
+
 # Welcome to TRMSC on github 👋 #
 
 ### I hope you enjoy browsing my repositories and I'm glad about feedback and tips! 😎 ###
